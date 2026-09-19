@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
     name = "Dr. Hanan Sakr"
     tagline = "Internship , interested with surgery, orthodontics, endodontics"
     graduation = "Graduated 2025 - Faculty of Dentistry"
-    profile_image = "https://github.com/user-attachments/assets/1c669ac9-2b53-4c18-b396-821409c6ada4"
+    profile_image = https://github.com/user-attachments/assets/074726c9-7627-40d3-a9c9-ddff728acaab"
     profile_image_alt = "Profile photo of Dr. Hanan Sakr"
     
     [params.hero.current_position]
